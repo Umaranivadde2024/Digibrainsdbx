@@ -1,0 +1,10 @@
+﻿{"CustomerID":"1001","FirstName":"John","LastName":"Smith","Gender":"Male","Age":"28","City":"New York","State":"NY","Country":"USA","RegistrationDate":"2023-01-15"}
+{"CustomerID":"1002","FirstName":"Emma","LastName":"Johnson","Gender":"Female","Age":"35","City":"Chicago","State":"IL","Country":"USA","RegistrationDate":"2023-02-18"}
+{"CustomerID":"1003","FirstName":"Liam","LastName":"Williams","Gender":"Male","Age":"42","City":"Dallas","State":"TX","Country":"USA","RegistrationDate":"2023-03-10"}
+{"CustomerID":"1004","FirstName":"Olivia","LastName":"Brown","Gender":"Female","Age":"30","City":"Seattle","State":"WA","Country":"USA","RegistrationDate":"2023-04-22"}
+{"CustomerID":"1005","FirstName":"Noah","LastName":"Jones","Gender":"Male","Age":"25","City":"Miami","State":"FL","Country":"USA","RegistrationDate":"2023-05-12"}
+{"CustomerID":"1006","FirstName":"Ava","LastName":"Garcia","Gender":"Female","Age":"39","City":"Phoenix","State":"AZ","Country":"USA","RegistrationDate":"2023-06-08"}
+{"CustomerID":"1007","FirstName":"James","LastName":"Miller","Gender":"Male","Age":"45","City":"Boston","State":"MA","Country":"USA","RegistrationDate":"2023-07-01"}
+{"CustomerID":"1008","FirstName":"Sophia","LastName":"Davis","Gender":"Female","Age":"29","City":"Denver","State":"CO","Country":"USA","RegistrationDate":"2023-08-19"}
+{"CustomerID":"1009","FirstName":"Benjamin","LastName":"Martinez","Gender":"Male","Age":"33","City":"Atlanta","State":"GA","Country":"USA","RegistrationDate":"2023-09-09"}
+{"CustomerID":"1010","FirstName":"Charlotte","LastName":"Wilson","Gender":"Female","Age":"27","City":"San Diego","State":"CA","Country":"USA","RegistrationDate":"2023-10-14"}
